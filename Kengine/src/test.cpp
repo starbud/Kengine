@@ -1,11 +1,11 @@
 #include "test.h"
-#include <stdio.h>
+#include <stdio.h> // Handle printf
 
 namespace Kengine {
 
 	void Print ( )
 	{
-		printf ( "Hello BogdanoVich!\n" );
+		printf ( "Welcome to Kengine engine!\n" );
 	}
 
 }
